@@ -2,13 +2,13 @@ numpy
 rouge_score
 fire
 openai
-transformers==4.28.1
+transformers==5.0.0rc3
 torch
 sentencepiece
 tokenizers>=0.13.3
 wandb
-pydantic==1.10.6
-tqdm==4.65.0
+pydantic==1.10.13
+tqdm==4.66.3
 icetk
 cpm_kernels==1.0.11
 datasets==2.10.1
@@ -23,6 +23,6 @@ rwkv==0.7.3
 torchvision==0.15.1
 safetensors==0.3.1
 yacs
-protobuf==4.23.3
+protobuf==5.29.6
 IPython
 utils
